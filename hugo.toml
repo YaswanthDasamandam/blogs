@@ -1,4 +1,4 @@
-baseurl      = "popcorncode.com"
+baseurl      = "popcorncode.com/"
 title        = "PopcornCode"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
