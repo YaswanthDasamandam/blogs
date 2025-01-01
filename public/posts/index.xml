@@ -1,22 +1,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on popcorncode</title>
-        <link>//localhost:53725/posts/</link>
+        <link>http://localhost:53981/posts/</link>
         <description>Recent content in Posts on popcorncode</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 01 Jan 2025 13:43:11 +0530</lastBuildDate>
-        <atom:link href="//localhost:53725/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:53981/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>First_Post</title>
-            <link>//localhost:53725/posts/first_post/</link>
+            <title>First Post</title>
+            <link>http://localhost:53981/posts/first_post/</link>
             <pubDate>Wed, 01 Jan 2025 13:43:11 +0530</pubDate>
             
-            <guid>//localhost:53725/posts/first_post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>http://localhost:53981/posts/first_post/</guid>
+            <description>&lt;h1 id=&#34;first-post&#34;&gt;First Post&lt;/h1&gt;
+&lt;p&gt;Checking If it is working or not&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h1 id="first-post">First Post</h1>
+<p>Checking If it is working or not</p>
+]]></content>
         </item>
         
     </channel>
