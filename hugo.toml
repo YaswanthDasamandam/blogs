@@ -1,7 +1,8 @@
 baseurl      = "https://popcorncode.com/"
 title        = "PopcornCode"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+#theme        = "hello-friend-ng"
+theme = 'ananke' 
 paginate     = 10
 
 [params]
